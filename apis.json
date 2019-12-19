@@ -1,0 +1,53 @@
+{
+    "name": "CityGro",
+    "description": "<p>CityGro was born from the philosophy that businesses who connect with their customers are simply better businesses. As the leader in the Loyalty Marketing industry, CityGro has helped thousands of businesses increase revenue through data driven communication. The flagship loyalty marketing kiosk has allowed millions of customers to connect with their favorite businesses and CityGro&rsquo;s automated loyalty marketing software has sent millions of targeted messages to drive customers to action. CityGro&rsquo;s loyalty marketing concept has proven successful in industries such as restaurants, salons, retail environments, financial institutions, trade shows and universities. And we&rsquo;re only getting started.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/citygro-logo-color.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "loyalty"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/citygro\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CityGro",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/citygro-logo-color.png",
+            "humanURL": "http:\/\/citygro.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/citygro-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/citygro.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/citygro.com\/feed\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/api.citygro.com\/v1\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CityGro"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/citygro.com\/"
+        }
+    ]
+}
